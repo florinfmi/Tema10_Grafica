@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\Florin\source\repos\Tema10\main.cpp(47,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Florin\source\repos\Tema10\main.cpp(87,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Florin\source\repos\Tema10\main.cpp(154,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Florin\source\repos\Tema10\main.cpp(154,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Florin\source\repos\Tema10\main.cpp(154,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Florin\source\repos\Tema10\main.cpp(163,45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Florin\source\repos\Tema10\main.cpp(173,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Florin\source\repos\Tema10\main.cpp(175,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Florin\source\repos\Tema10\main.cpp(185,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Florin\source\repos\Tema10\main.cpp(187,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Florin\source\repos\Tema10\main.cpp(189,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Florin\source\repos\Tema10\main.cpp(216,32): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Florin\source\repos\Tema10\main.cpp(223,37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Florin\source\repos\Tema10\main.cpp(314,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Florin\source\repos\Tema10\main.cpp(359,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Florin\source\repos\Tema10\main.cpp(360,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Florin\source\repos\Tema10\main.cpp(364,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Florin\source\repos\Tema10\main.cpp(365,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Tema10.vcxproj -> C:\Users\Florin\source\repos\Tema10\Debug\Tema10.exe
